@@ -1,0 +1,58 @@
+detectado_utc,tipo,station_id,nombre,lat,lon,capacidad
+2026-10-04T18:39:38+00:00,capacidad,623,CE-588  Av. Fernando - La coruña,19.401175,-99.13748,31
+2026-10-04T18:39:38+00:00,capacidad,8,CE-443 Bruno Traven-Golondrinas,19.359583,-99.162085,30
+2026-10-04T18:39:38+00:00,capacidad,355,CE-045 Durango - Sonora,19.418749,-99.171942,40
+2026-10-04T21:56:56+00:00,capacidad,355,CE-045 Durango - Sonora,19.418749,-99.171942,39
+2026-10-04T21:56:56+00:00,capacidad,353,CE-026 Reforma - Versalles,19.432595,-99.154995,16
+2026-10-05T00:32:26+00:00,capacidad,429,CE-346 San Francisco-Santa Margarita,19.38496594717172,-99.17411729704327,26
+2026-10-05T00:32:26+00:00,capacidad,353,CE-026 Reforma - Versalles,19.432595,-99.154995,15
+2026-10-05T00:32:26+00:00,capacidad,95,CE-060 Mazatlán - Fernando Montes de Oca,19.414099314684794,-99.17715847497675,40
+2026-10-05T00:32:26+00:00,capacidad,509,CE-630 Cuicuilco - Motozintla,19.375677,-99.152953,31
+2026-10-05T06:09:02+00:00,capacidad,499,CE-709 Inglaterra - Antigua Taxqueña,19.344275,-99.149988,23
+2026-10-05T06:09:02+00:00,capacidad,95,CE-060 Mazatlán - Fernando Montes de Oca,19.414099314684794,-99.17715847497675,39
+2026-10-05T06:09:02+00:00,capacidad,353,CE-026 Reforma - Versalles,19.432595,-99.154995,16
+2026-10-05T14:32:51+00:00,capacidad,355,CE-045 Durango - Sonora,19.418749,-99.171942,40
+2026-10-05T14:32:51+00:00,capacidad,353,CE-026 Reforma - Versalles,19.432595,-99.154995,15
+2026-10-05T21:36:15+00:00,capacidad,419,CE-369 Porfirio Díaz-Av. Insurgentes,19.379941,-99.177224,34
+2026-10-05T21:36:15+00:00,capacidad,355,CE-045 Durango - Sonora,19.418749,-99.171942,39
+2026-10-05T21:36:15+00:00,capacidad,106,CE-029 Reforma - Bucareli,19.434944,-99.150295,36
+2026-10-06T08:18:28+00:00,capacidad,340,CE-129 Tonalá-Durango,19.4206,-99.163312,24
+2026-10-06T08:18:28+00:00,capacidad,162,CE-218 Hegel-Ibarbourou,19.432451,-99.188033,21
+2026-10-06T08:18:28+00:00,capacidad,106,CE-029 Reforma - Bucareli,19.434944,-99.150295,35
+2026-10-06T08:18:28+00:00,capacidad,377,CE-169 Prosperidad-Progreso,19.403019,-99.174934,22
+2026-10-06T15:17:44+00:00,capacidad,340,CE-129 Tonalá-Durango,19.4206,-99.163312,23
+2026-10-06T15:17:44+00:00,capacidad,119,CE-016 Reforma - Río Tiber,19.4267528,-99.16861944,32
+2026-10-06T23:56:02+00:00,capacidad,162,CE-218 Hegel-Ibarbourou,19.432451,-99.188033,23
+2026-10-07T11:13:02+00:00,capacidad,377,CE-169 Prosperidad-Progreso,19.403019,-99.174934,23
+2026-10-07T11:13:02+00:00,capacidad,119,CE-016 Reforma - Río Tiber,19.4267528,-99.16861944,31
+2026-10-07T17:50:04+00:00,capacidad,419,CE-369 Porfirio Díaz-Av. Insurgentes,19.379941,-99.177224,35
+2026-10-07T17:50:04+00:00,capacidad,234,CE-041 Reforma - Av. de la República,19.43542,-99.150317,34
+2026-10-08T02:04:01+00:00,capacidad,234,CE-041 Reforma - Av. de la República,19.43542,-99.150317,33
+2026-10-08T02:04:01+00:00,capacidad,484,CE-499 de los Maestros - Calzada de los Gallos,19.455986,-99.165966,40
+2026-10-08T08:51:55+00:00,capacidad,216,CE-322 Heriberto Frías-Concepción Beistegui,19.388456876549792,-99.16064277296753,26
+2026-10-08T21:03:37+00:00,capacidad,234,CE-041 Reforma - Av. de la República,19.43542,-99.150317,34
+2026-10-08T21:03:37+00:00,capacidad,484,CE-499 de los Maestros - Calzada de los Gallos,19.455986,-99.165966,39
+2026-10-09T07:22:56+00:00,capacidad,484,CE-499 de los Maestros - Calzada de los Gallos,19.455986,-99.165966,40
+2026-10-09T07:22:56+00:00,capacidad,234,CE-041 Reforma - Av. de la República,19.43542,-99.150317,33
+2026-10-09T14:27:44+00:00,capacidad,28,CE-424 Amores-José María Rico (Eje 8),19.367103332434564,-99.17058136315518,12
+2026-10-09T14:27:44+00:00,capacidad,484,CE-499 de los Maestros - Calzada de los Gallos,19.455986,-99.165966,39
+2026-10-09T19:39:06+00:00,capacidad,28,CE-424 Amores-José María Rico (Eje 8),19.367103332434564,-99.17058136315518,11
+2026-10-09T19:39:06+00:00,capacidad,186,CE-058 Parque España - Juan de la Barrera,19.415358,-99.171902,28
+2026-10-09T23:29:42+00:00,capacidad,359,CE-194 Circuito Mahatma Gandhi-Reforma,19.424282,-99.180334,36
+2026-10-09T23:29:42+00:00,capacidad,186,CE-058 Parque España - Juan de la Barrera,19.415358,-99.171902,27
+2026-10-10T08:10:14+00:00,capacidad,106,CE-029 Reforma - Bucareli,19.434944,-99.150295,24
+2026-10-10T08:15:11+00:00,capacidad,106,CE-029 Reforma - Bucareli,19.434944,-99.150295,35
+2026-10-12T23:00:18+00:00,capacidad,636,CE-493 Lago Tláhuac - Laguna de Guzmán,19.445916,-99.170401,0
+2026-10-12T23:35:03+00:00,capacidad,636,CE-493 Lago Tláhuac - Laguna de Guzmán,19.445916,-99.170401,19
+2026-10-14T08:10:16+00:00,capacidad,8,CE-443 Bruno Traven-Golondrinas,19.359583,-99.162085,0
+2026-10-14T08:15:13+00:00,capacidad,8,CE-443 Bruno Traven-Golondrinas,19.359583,-99.162085,30
+2026-10-19T22:25:06+00:00,capacidad,167,CE-120 Marsella-Nápoles,19.425437,-99.159458,1
+2026-10-19T22:35:05+00:00,capacidad,167,CE-120 Marsella-Nápoles,19.425437,-99.159458,4
+2026-10-19T22:50:13+00:00,capacidad,167,CE-120 Marsella-Nápoles,19.425437,-99.159458,15
+2026-10-21T22:50:13+00:00,capacidad,255,CE-183 Gabino Barreda-Guillermo Prieto,19.437665,-99.164018,15
+2026-10-21T22:55:12+00:00,capacidad,255,CE-183 Gabino Barreda-Guillermo Prieto,19.437665,-99.164018,35
+2026-10-26T16:25:06+00:00,capacidad,58,CE-419 Actipan-Cadiz,19.370615,-99.181606,0
+2026-10-26T16:30:16+00:00,capacidad,58,CE-419 Actipan-Cadiz,19.370615,-99.181606,30
+2026-10-27T19:15:12+00:00,capacidad,389,CE-351 Calle 27-Avenida Revolución,19.385751,-99.186297,4
+2026-10-28T07:30:19+00:00,capacidad,389,CE-351 Calle 27-Avenida Revolución,19.385751,-99.186297,15
+2026-10-28T07:35:05+00:00,capacidad,389,CE-351 Calle 27-Avenida Revolución,19.385751,-99.186297,4
